@@ -1,0 +1,1 @@
+A decentralized election application built with [truffle.](https://www.npmjs.com/package/truffle)
