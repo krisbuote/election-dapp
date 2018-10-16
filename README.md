@@ -8,6 +8,4 @@ Based on a [tutorial.](http://www.dappuniversity.com/articles/the-ultimate-ether
 + [ganache](https://truffleframework.com/ganache)
 + [metamask](https://metamask.io/)
 
-![before vote](https://github.com/krisbuote/election-dapp/blob/master/images/election-results-1.JPG "Before voting.")
 ![during vote](https://github.com/krisbuote/election-dapp/blob/master/images/election-results-pay.JPG "Voting.")
-![after vote](https://github.com/krisbuote/election-dapp/blob/master/images/election-results-2.JPG "After voting.")
